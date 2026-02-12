@@ -1,0 +1,1 @@
+Based on github.com/davila7/claude-code-templates/cli-tool/components/skills/development/git-commit-helper/SKILL.md with some improvements suggested by https://github.com/davila7/claude-code-templates/issues/287.
