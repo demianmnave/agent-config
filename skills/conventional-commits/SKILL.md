@@ -1,6 +1,6 @@
 ---
 name: conventional-commits
-description: Commit convention, message best practices, conventional commits
+description: Commit convention, message best practices, conventional commits for use when writing git commit messages.
 ---
 
 # Conventional Commits Skill
